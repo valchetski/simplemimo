@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMimo", "SimpleMimo\SimpleMimo.csproj", "{BA3321CB-FB51-456C-94A5-108652DABF75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "config", "config", "{2DA087FA-1041-4DCC-AB2E-5E83340F6813}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMimo.IntegrationTests", "SimpleMimo.IntegrationTests\SimpleMimo.IntegrationTests.csproj", "{958DE0CC-F90F-4058-9B07-592D78A26510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3321CB-FB51-456C-94A5-108652DABF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3321CB-FB51-456C-94A5-108652DABF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3321CB-FB51-456C-94A5-108652DABF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3321CB-FB51-456C-94A5-108652DABF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958DE0CC-F90F-4058-9B07-592D78A26510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958DE0CC-F90F-4058-9B07-592D78A26510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958DE0CC-F90F-4058-9B07-592D78A26510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958DE0CC-F90F-4058-9B07-592D78A26510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+@SimpleMimo_HostAddress = http://localhost:5120
+
+GET {{SimpleMimo_HostAddress}}//openapi/v1.json
+
+###
